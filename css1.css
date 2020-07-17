@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+.firework
+{
+	position:fixed;
+	background-image: url('../fireworks/star4.png');
+	height: 35px;
+	width: 40px;
+	background-size: cover;
+}
+.particle
+{
+	position:fixed;
+	background-color: white;
+	height: 3px;
+	width: 3px;
+}
